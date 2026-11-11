@@ -1,0 +1,109 @@
+recipe,ingredient,qty_per_serving
+Chicken Tacos,chicken breast,120
+Chicken Tacos,flour tortillas,2
+Chicken Tacos,shredded cheese,25
+Chicken Tacos,salsa,40
+Chicken Tacos,yellow onion,0.25
+Chicken Tacos,cilantro,0.1
+Spaghetti with Meat Sauce,spaghetti,90
+Spaghetti with Meat Sauce,ground beef,100
+Spaghetti with Meat Sauce,marinara sauce,110
+Spaghetti with Meat Sauce,yellow onion,0.25
+Spaghetti with Meat Sauce,garlic,0.1
+Spaghetti with Meat Sauce,parmesan,8
+Chicken Fried Rice,chicken breast,100
+Chicken Fried Rice,white rice,75
+Chicken Fried Rice,eggs,0.5
+Chicken Fried Rice,frozen peas,40
+Chicken Fried Rice,soy sauce,15
+Chicken Fried Rice,yellow onion,0.2
+Black Bean Quesadillas,flour tortillas,2
+Black Bean Quesadillas,black beans,100
+Black Bean Quesadillas,shredded cheese,40
+Black Bean Quesadillas,salsa,30
+Beef Burrito Bowls,ground beef,100
+Beef Burrito Bowls,white rice,75
+Beef Burrito Bowls,black beans,60
+Beef Burrito Bowls,salsa,40
+Beef Burrito Bowls,shredded cheese,20
+Beef Burrito Bowls,taco seasoning,0.25
+Beef Burrito Bowls,bell pepper,0.25
+BBQ Pulled Pork Sandwiches,pork shoulder,200
+BBQ Pulled Pork Sandwiches,bbq sauce,60
+BBQ Pulled Pork Sandwiches,hamburger buns,1
+BBQ Pulled Pork Sandwiches,yellow onion,0.25
+Sheet-Pan Sausage and Potatoes,italian sausage,110
+Sheet-Pan Sausage and Potatoes,bell pepper,0.5
+Sheet-Pan Sausage and Potatoes,yellow onion,0.25
+Sheet-Pan Sausage and Potatoes,potatoes,200
+Sheet-Pan Sausage and Potatoes,garlic,0.05
+Penne Marinara with Spinach,penne,90
+Penne Marinara with Spinach,marinara sauce,110
+Penne Marinara with Spinach,parmesan,15
+Penne Marinara with Spinach,garlic,0.1
+Penne Marinara with Spinach,baby spinach,30
+Chicken Souvlaki Pitas,chicken breast,120
+Chicken Souvlaki Pitas,pita bread,2
+Chicken Souvlaki Pitas,plain yogurt,40
+Chicken Souvlaki Pitas,cucumber,0.25
+Chicken Souvlaki Pitas,garlic,0.05
+Chicken Souvlaki Pitas,lemon,0.1
+Chickpea Couscous Bowls,chickpeas,100
+Chickpea Couscous Bowls,couscous,60
+Chickpea Couscous Bowls,cucumber,0.25
+Chickpea Couscous Bowls,feta,30
+Chickpea Couscous Bowls,lemon,0.1
+Hearty Lentil Soup,lentils,60
+Hearty Lentil Soup,carrots,60
+Hearty Lentil Soup,yellow onion,0.25
+Hearty Lentil Soup,diced tomatoes,100
+Hearty Lentil Soup,vegetable broth,200
+Hearty Lentil Soup,garlic,0.1
+Teriyaki Chicken Rice Bowls,chicken thighs,130
+Teriyaki Chicken Rice Bowls,white rice,75
+Teriyaki Chicken Rice Bowls,broccoli,85
+Teriyaki Chicken Rice Bowls,soy sauce,20
+Teriyaki Chicken Rice Bowls,carrots,40
+Veggie Tofu Stir-Fry,firm tofu,100
+Veggie Tofu Stir-Fry,broccoli,85
+Veggie Tofu Stir-Fry,carrots,40
+Veggie Tofu Stir-Fry,white rice,75
+Veggie Tofu Stir-Fry,soy sauce,20
+Veggie Tofu Stir-Fry,garlic,0.1
+Veggie Tofu Stir-Fry,bell pepper,0.25
+Turkey Chili,ground turkey,100
+Turkey Chili,black beans,80
+Turkey Chili,diced tomatoes,150
+Turkey Chili,yellow onion,0.25
+Turkey Chili,bell pepper,0.25
+Turkey Chili,shredded cheese,15
+Turkey Chili,taco seasoning,0.25
+Roasted Chicken Thighs with Potatoes,chicken thighs,150
+Roasted Chicken Thighs with Potatoes,potatoes,200
+Roasted Chicken Thighs with Potatoes,carrots,80
+Spinach and Cheese Omelets,eggs,2
+Spinach and Cheese Omelets,shredded cheese,20
+Spinach and Cheese Omelets,bell pepper,0.25
+Spinach and Cheese Omelets,baby spinach,30
+Spinach and Cheese Omelets,yellow onion,0.1
+Ground Beef and Broccoli Rice Bowls,ground beef,100
+Ground Beef and Broccoli Rice Bowls,broccoli,85
+Ground Beef and Broccoli Rice Bowls,white rice,75
+Ground Beef and Broccoli Rice Bowls,soy sauce,20
+Ground Beef and Broccoli Rice Bowls,garlic,0.1
+Sausage and Spinach Penne,italian sausage,110
+Sausage and Spinach Penne,penne,90
+Sausage and Spinach Penne,marinara sauce,110
+Sausage and Spinach Penne,baby spinach,30
+Sausage and Spinach Penne,parmesan,8
+Lemon Chicken with Couscous,chicken thighs,130
+Lemon Chicken with Couscous,couscous,60
+Lemon Chicken with Couscous,lemon,0.15
+Lemon Chicken with Couscous,baby spinach,30
+Lemon Chicken with Couscous,garlic,0.1
+Egg and Veggie Fried Rice,eggs,1
+Egg and Veggie Fried Rice,white rice,75
+Egg and Veggie Fried Rice,frozen peas,40
+Egg and Veggie Fried Rice,carrots,40
+Egg and Veggie Fried Rice,soy sauce,15
+Egg and Veggie Fried Rice,yellow onion,0.2
